@@ -1,11 +1,11 @@
-# RETAIL STORE SALES AND INVENTORY ANALYSIS -blinkit
+# RETAIL STORE SALES AND INVENTORY ANALYSIS BLINKIT
 Analyzed Blinkit’s sales and inventory data using SQL and Power BI to uncover key trends, top-performing products, and outlet performance insights.
 
 # Project Objective
 Analyze Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key revenue drivers, top-performing categories, and improvement opportunities.
 
 # Dataset Used
-https://github.com/HrutujaDabhade/-RETAIL-STORE-SALES-AND-INVENTORY-ANALYSIS---blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx
+- <a href="https://github.com/HrutujaDabhade/-RETAIL-STORE-SALES-AND-INVENTORY-ANALYSIS---blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx">DataSet</a>
 
 # Questions (KPIs)
 - What are the total, average sales, and number of items sold?
