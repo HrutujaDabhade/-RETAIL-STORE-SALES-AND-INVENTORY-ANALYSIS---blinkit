@@ -5,7 +5,7 @@ Analyzed Blinkit’s sales and inventory data using SQL and Power BI to uncover 
 Analyze Blinkit’s sales performance, customer satisfaction, and inventory distribution to identify key revenue drivers, top-performing categories, and improvement opportunities.
 
 # Dataset Used
-
+https://github.com/HrutujaDabhade/-RETAIL-STORE-SALES-AND-INVENTORY-ANALYSIS---blinkit/blob/main/BlinkIT%20Grocery%20Data.xlsx
 
 # Questions (KPIs)
 - What are the total, average sales, and number of items sold?
